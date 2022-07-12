@@ -987,4 +987,15 @@ XML solves this problem by being readable to neither.
 
 ---
 
+**Q:** How do you end a program?
+
+**A:** You execute it.
+
+---
+
+**Q:** How do you end a program?
+
+**A:** You execute it.
+
+---
 
